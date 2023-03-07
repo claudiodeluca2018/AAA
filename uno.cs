@@ -7,3 +7,5 @@ uno
 //otro comentario para ver si te trae los issues sin el #
 
 //agregue desde github
+
+//agregue desde local en uno.cs para ver conflictos
